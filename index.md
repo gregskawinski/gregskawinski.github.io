@@ -1,16 +1,14 @@
 ## ABOUT
-Data and Control always puzzled me, so I dedicated my career to understand it, and to use this knowledge to built better solutions. In fact, with every project I undertook, my passion for data only deepened.
+(Big) Data and Control always puzzled me, so I dedicated my career to understand it, and to use this knowledge to built better solutions.
 
 
-I have dedicated recent years of my professional carrier to understand cloud computing and data warehousing, as these act as the engine for Big Data and AI-driven technological revolution. I was involved in projects with development of a data processing / ETL pipelines based on the cloud computing solutions. In addition, I have spent some time on development of Quant trading strategies. 
+Cloud computing and data warehousing act as the engine for Big Data and AI-driven technological revolution. Data processing, data driven algos leads to better Quant trading strategies. 
 
+Turn your data into a strategic asset.
 
-If you're in need of someone who can turn your data into a strategic asset, feel free to reach out to me via email. I'm always open to new opportunities and love connecting with new people.
-
-```javascript
-if (isAwesome){
+```python
+if (isAwesome):
   return true
-}
 ```
 
 Plase find below my sample portfolio
