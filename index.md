@@ -1,7 +1,7 @@
 ## ABOUT
-(Big) Data and Control always puzzled me, so I dedicated my career to understand it, and to use this knowledge to built better solutions. Future is time where Cloud Computing and Data Warehousing act as the engine for Big Data and AI-driven technological revolution. Its where Data Driven Algos leads to better Quant Trading strategies. 
+(Big) Data and Control always puzzled me, so I dedicated my career to understand it, and to use this knowledge to built better solutions. Future is where Cloud Computing and Data Warehousing act as the engine for Big Data and AI-driven technological revolution. Is where Data Driven Algos leads to better Quant Trading strategies. 
 
-Turn your data into a strategic asset.
+Turn your DATA into a strategic asset.
 
 ```python
 if (isAwesome):
