@@ -9,7 +9,7 @@ if (isAwesome):
 ---
 ### CODING CHEAT-SHEETs
   - [Python](http://example.com/)
-  - [MongoDB]
+  - [MongoDB](cheat_sheet.md)
   - [SnowFlake]
   - [SQL]
   - [PySpark]
