@@ -31,24 +31,20 @@ if (isAwesome):
 
 ### Cloud & Data Enginnering
 
-[Food System Order (Kafka, MongoDB)](http://example.com/)
+[Food System Order (Kafka, MongoDB)](/kafka)
 
 ---
-[Ethereum EVM token analyser ]
+[Ethereum EVM token analyser ](/bot_evm)
 
 ---
-[Crypto Sentiment Analyser]
+[Crypto Sentiment Analyser](/crypto_sentiment)
 
 ---
 
 ### Blockchain
 
-[Supply Chain Blockchain](/sample_page)
-
-
+[Supply Chain Blockchain](/blockchain)
 
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
