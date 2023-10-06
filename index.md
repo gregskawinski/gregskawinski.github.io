@@ -1,5 +1,6 @@
 ## ABOUT
-(Big) Data and Control always puzzled me, so I dedicated my career to understand it, and to use this knowledge to built better solutions. The more I look into the future, the better I see the world where Cloud Computing and Data Warehousing act as the engine for Big Data and AI-driven technological revolution. More data means better Data Driven Algos for Quant Trading. DATA becomes a strategic asset.
+
+The perpetual enigma of Data and Control has been my driving force, leading me to shape my career around comprehending these domains and leveraging this knowledge to construct superior solutions. As I peer into the future, I envision a world where Cloud Computing and Data Warehousing propel a transformative era of Big Data and AI-driven innovation. A surplus of data begets more refined Data-Driven Algorithms, particularly in the realm of Quantitative Trading, where DATA assumes the role of a pivotal strategic asset.
 
 ```python
 if (isAwesome):
@@ -9,10 +10,10 @@ if (isAwesome):
 ---
 ### CODING CHEAT-SHEETs
   - [Python Ultimate](/files/ultimate_python_cheatsheet.ipynb)
-  - [MongoDB](/gregskawinski/mongoDB/main/cheat_sheet.md)
-  - [SnowFlake]
-  - [SQL]
-  - [PySpark]
+  - [MongoDB](https://github.com/gskawinski/mongoDB/blob/main/cheat_sheet.md)
+  - [SnowFlake]()
+  - [SQL]()
+  - [PySpark]()
 
 ## PORTFOLIO
 
@@ -21,7 +22,6 @@ if (isAwesome):
 ### Quant Financing 
 
 [Global Stock Screener](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [Multi-Algo ML Stock Predictor ](/pdf/sample_presentation.pdf)
@@ -37,8 +37,9 @@ if (isAwesome):
 - [Ethereum EVM token analyser ]
 - [Crypto Sentiment Analyser]
 
+### Blockchain
+[Supply Chain Blockchain](/sample_page)
 
-    
 
 
 
