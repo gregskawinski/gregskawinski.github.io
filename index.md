@@ -16,9 +16,7 @@ if (isAwesome):
   - [PySpark]()
 
 ## PORTFOLIO
-
 ---
-
 ### Quant Financing 
 
 [Global Stock Screener](/sample_page)
@@ -33,12 +31,20 @@ if (isAwesome):
 
 ### Cloud & Data Enginnering
 
-- [Food System Order (Kafka, MongoDB)](http://example.com/)
-- [Ethereum EVM token analyser ]
-- [Crypto Sentiment Analyser]
+[Food System Order (Kafka, MongoDB)](http://example.com/)
+
+---
+[Ethereum EVM token analyser ]
+
+---
+[Crypto Sentiment Analyser]
+
+---
 
 ### Blockchain
+
 [Supply Chain Blockchain](/sample_page)
+
 
 
 
