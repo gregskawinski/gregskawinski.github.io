@@ -11,39 +11,37 @@ if (isAwesome):
 ### CODING CHEAT-SHEETs
   - [Python Ultimate](/files/ultimate_python_cheatsheet.ipynb)
   - [MongoDB Shell](https://github.com/gskawinski/mongoDB/blob/main/cheat_sheet.md) / [MongoDB-Python](https://github.com/gskawinski/mongoDB/blob/main/mongoDB_python.ipynb)
-  - [SnowFlake]()
-  - [SQL]()
-  - [PySpark]()
+  - [SQL]
+  - [SnowFlake]
+  - [PySpark]
 
 ## PORTFOLIO
 ---
-### Quant Financing 
+### Quant Financing / Data Engeenering
 
-[Global Stock Screener](/sample_page)
-
----
-[Multi-Algo ML Stock Predictor ](/pdf/sample_presentation.pdf)
+[Global Stock Screener]
 
 ---
-[Crypto BOT Trader](http://example.com/)
+[Multi-Algo ML Stock Predictor ]
+
+---
+[Crypto BOT Trader]
 
 ---
 
-### Cloud & Data Enginnering
-
-[Food System Order (Kafka, MongoDB)](/kafka)
+[Food System Order (Kafka, MongoDB)]
 
 ---
-[Ethereum EVM token analyser ](/bot_evm)
+[Ethereum EVM token analyser ]
 
 ---
-[Crypto Sentiment Analyser](/crypto_sentiment)
+[Crypto Sentiment Analyser]
 
 ---
 
 ### Blockchain
 
-[Supply Chain Blockchain](/blockchain)
+[Supply Chain Blockchain]
 
 
 
