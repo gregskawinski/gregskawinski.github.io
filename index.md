@@ -10,7 +10,7 @@ if (isAwesome):
 ---
 ### CODING CHEAT-SHEETs
   - [Python Ultimate](/files/ultimate_python_cheatsheet.ipynb)
-  - [MongoDB Shell](https://github.com/gskawinski/mongoDB/blob/main/cheat_sheet.md) / [MongoDB-Python](https://github.com/gskawinski/mongoDB/blob/main/mongodbMng.ipynb)
+  - [MongoDB Shell](https://github.com/gskawinski/mongoDB/blob/main/cheat_sheet.md) / [MongoDB-Python] (https://github.com/gskawinski/mongoDB/blob/main/mongoDB_python.ipynb)
   - [SnowFlake]()
   - [SQL]()
   - [PySpark]()
