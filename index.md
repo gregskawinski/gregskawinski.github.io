@@ -17,10 +17,12 @@ if (isAwesome):
 
 ## PORTFOLIO
 ---
-[Password Manager] (https://github.com/gskawinski/Python/blob/main/Projects/PasswordManager/project_manager.png)
+[Password Manager](https://github.com/gskawinski/Python/tree/main/Projects/PasswordManager)
+
 Python-based Password Manager is a command-line tool (CLI) designed to help users securely store, manage, and manipulate their passwords. It provides a range of features, including password generation, encryption, decryption, updating, importing, exporting. Userdata is saved as JSON/BSON file, with file permisions.
 The manager uses AES algorithm to encode and decode passwords, BCrypr algorithm for password hashing....
 
+<img src="https://github.com/gskawinski/Python/blob/main/Projects/PasswordManager/project_manager.png?raw=true"/>
 
 ### Quant Financing / Data Engeenering
 
