@@ -9,7 +9,7 @@ if (isAwesome):
 
 ---
 ### CODING CHEAT-SHEETs
-  - [Python Ultimate](/files/ultimate_python_cheatsheet.ipynb) / [Code Code Snippets](https://github.com/gskawinski/Python/tree/main/CodeSnipets)
+  - [Python Ultimate](/files/ultimate_python_cheatsheet.ipynb) / [Code Snippets](https://github.com/gskawinski/Python/tree/main/CodeSnipets)
   - [MongoDB Shell](https://github.com/gskawinski/mongoDB/blob/main/cheat_sheet.md) / [MongoDB-Python](https://github.com/gskawinski/mongoDB/blob/main/mongoDB_python.ipynb)
   - [SQL Cheat-Sheet](https://github.com/gskawinski/mySQL/blob/main/sql_ultimate.sql) / [mySQL-Python](https://github.com/gskawinski/mySQL/blob/main/mySQL_python.ipynb)
   - [SnowFlake]
@@ -20,7 +20,7 @@ if (isAwesome):
 [Password Manager](https://github.com/gskawinski/Python/tree/main/Projects/PasswordManager)
 
 Python-based Password Manager is a command-line tool (CLI) designed to help users securely store, manage, and manipulate their passwords. It provides a range of features, including password generation, encryption, decryption, updating, importing, exporting. Userdata is saved as JSON/BSON file, with file permisions.
-The manager uses AES algorithm to encode and decode passwords, BCrypr algorithm for password hashing....
+The manager uses AES algorithm to encode and decode passwords, BCrypt algorithm for password hashing....
 
 <img src="https://github.com/gskawinski/Python/blob/main/Projects/PasswordManager/project_manager.png?raw=true"/>
 
