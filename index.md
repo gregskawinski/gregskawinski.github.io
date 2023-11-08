@@ -14,6 +14,7 @@ if (isAwesome):
   - [SQL Cheat-Sheet](https://github.com/gskawinski/mySQL/blob/main/sql_ultimate.sql) / [mySQL-Python](https://github.com/gskawinski/mySQL/blob/main/mySQL_python.ipynb)
   - [SnowFlake]
   - [PySpark]
+  - [Python - Matplotlib/Seaborn Visualisation]
 
 ## PORTFOLIO
 ---
@@ -22,7 +23,13 @@ if (isAwesome):
 Python-based Password Manager is a command-line tool (CLI) designed to help users securely store, manage, and manipulate their passwords. It provides a range of features, including password generation, encryption, decryption, updating, importing, exporting. Userdata is saved as JSON/BSON file, with file permisions.
 The manager uses AES algorithm to encode and decode passwords, BCrypt algorithm for password hashing....
 
+<!-- 
 <img src="https://github.com/gskawinski/Python/blob/main/Projects/PasswordManager/project_manager.png?raw=true"/>
+-->
+
+---
+[Simple Shop - CLI MySQL-based app](https://github.com/gskawinski/Python/tree/main/Projects/MySQLShopCLI)
+"Simple Shop" is a command-line application designed to streamline various aspects of a virtual store. The Simple Shop CLI offers users a range of functionalities, such as creating user profiles, accessing product lists, obtaining product details and reviews, creating orders, managing customer orders, making payments, and even adding new products to the shop inventory. The tool is ideal for simplifying the management of an online store's operations and enhancing the user's shopping experience.
 
 ### Quant Financing / Data Engeenering
 
