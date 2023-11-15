@@ -8,7 +8,7 @@ if (isAwesome):
 ```
 
 ---
-### CODING CHEAT-SHEETs
+### CODING CHEAT-SHEETs / SNIPPETs
   - [Python Ultimate](/files/ultimate_python_cheatsheet.ipynb) / [Code Snippets](https://github.com/gskawinski/Python/tree/main/CodeSnipets)
   - [MongoDB Shell](https://github.com/gskawinski/mongoDB/blob/main/cheat_sheet.md) / [MongoDB-Python](https://github.com/gskawinski/mongoDB/blob/main/mongoDB_python.ipynb)
   - [SQL Cheat-Sheet](https://github.com/gskawinski/mySQL/blob/main/sql_ultimate.sql) / [mySQL-Python](https://github.com/gskawinski/mySQL/blob/main/mySQL_python.ipynb)
