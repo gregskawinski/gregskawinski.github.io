@@ -12,9 +12,10 @@ if (isAwesome):
   - [Python Ultimate](/files/ultimate_python_cheatsheet.ipynb) / [Code Snippets](https://github.com/gskawinski/Python/tree/main/CodeSnipets)
   - [MongoDB Shell](https://github.com/gskawinski/mongoDB/blob/main/cheat_sheet.md) / [MongoDB-Python](https://github.com/gskawinski/mongoDB/blob/main/mongoDB_python.ipynb)
   - [SQL Cheat-Sheet](https://github.com/gskawinski/mySQL/blob/main/sql_ultimate.sql) / [mySQL-Python](https://github.com/gskawinski/mySQL/blob/main/mySQL_python.ipynb)
-  - [SnowFlake]
+  - [SnowFlake](https://github.com/gskawinski/snowflake)
   - [PySpark](https://github.com/gskawinski/pySpark/tree/main)
   - [Python - Matplotlib/Seaborn Visualisation]
+  - [AWS/Boto3/Lambda](https://github.com/gskawinski/aws)
 
 ## PORTFOLIO
 ---
