@@ -16,6 +16,7 @@ if (isAwesome):
   - [PySpark](https://github.com/gskawinski/pySpark/tree/main)
   - [Python - Matplotlib/Seaborn Visualisation]
   - [AWS/Boto3/Lambda](https://github.com/gskawinski/aws)
+  - [Kafka - Stream ](https://github.com/gskawinski/Kafka)
 
 ## PORTFOLIO
 ---
