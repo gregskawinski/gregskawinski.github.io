@@ -18,7 +18,7 @@ if (isAwesome):
   - [AWS/Boto3/Lambda](https://github.com/gskawinski/aws)
   - [Kafka - Stream ](https://github.com/gskawinski/Kafka)
 
-## PORTFOLIO
+## PORTFOLIO - #### Quant Financing / Data Engeenering / Blockchain
 ---
 [Password Manager](https://github.com/gskawinski/Python/tree/main/Projects/PasswordManager)
 
@@ -34,7 +34,6 @@ The manager uses AES algorithm to encode and decode passwords, BCrypt algorithm 
 
 "Simple Shop" is a command-line application/tool designed to simulate/streamline various aspects of a virtual store. The CLI app is tightly integrated with a MySQL database for seamless operations. The app offers users a range of functionalities, such as creating user profiles, accessing product lists, obtaining product details and reviews, creating orders, managing customer orders, making new payments, and adding new products to the shop inventory. The application uses simulated data in a fake dataset to simulate real-world scenarios.
 
-#### Quant Financing / Data Engeenering / Blockchain
 
 [Global Stock Screener]
 
