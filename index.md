@@ -57,9 +57,11 @@ Food Orders is a Kafka-based event-driven food ordering system designed for scal
 ---
 [Crypto Sentiment Analyser]
 
+The Crypto Sentiment Analyser project leverages the Twitter stream API to track and analyze the frequency of specific #hashtags, $cashtags, and tweets from highly followed users related to various cryptocurrencies. This sophisticated system listens to real-time data, filtering and processing it to gauge market sentiment. The collected tweets are categorized as positive, negative, or neutral towards the cryptocurrency, providing a nuanced understanding of market mood. Using Python Pandas, the data is cleaned, organized, and analyzed to extract meaningful insights. MongoDB is employed for data storage, handling raw log data, caches, and user-centric crypto information, ensuring efficient and secure data management.
+
 ---
 
-[Ethereum EVM token analyser ]
+[Ethereum EVM analyser]
 
 Ethereum EVM Analyser is a group of bots developed and deployed on AWS EC2 servers for blockchain event detection and trade signal generation. These bots utilize stream data from JSON RPC providers like Infura or Alchemy to access real-time blockchain data. By integrating multiple APIs such as Etherscan, Dexscreener, and Tokensniffer, they gather additional real-time/historical data necessary for accurate and timely blockchain and DEX trading information (like smart contracts information, recent trade of DEX market trades and order-book depth). The information collected and processed is then filtered using Python Pandas, with data-driven trade signals sent to private investors via Telegram channels. These signals provide detailed metrics such as Token/Coin details, DEX trade links, and token/coin order depth. MongoDB is used for efficient raw data logging and data caching, ensuring quick access and secure storage of the data.
 
