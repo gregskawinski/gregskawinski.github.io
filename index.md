@@ -18,7 +18,8 @@ if (isAwesome):
   - [AWS/Boto3/Lambda](https://github.com/gskawinski/aws)
   - [Kafka - Stream ](https://github.com/gskawinski/Kafka)
 
-## PORTFOLIO - #### Quant Financing / Data Engeenering / Blockchain
+## PORTFOLIO 
+#### Quant Financing / Data Engeenering / Blockchain
 ---
 [Password Manager](https://github.com/gskawinski/Python/tree/main/Projects/PasswordManager)
 
