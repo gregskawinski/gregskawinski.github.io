@@ -68,11 +68,14 @@ The Crypto Sentiment Analyser project leverages the Twitter stream API to track 
 Ethereum EVM Analyser is a group of bots developed and deployed on AWS EC2 servers for blockchain event detection and trade signal generation. These bots utilize stream data from JSON RPC providers like Infura or Alchemy to access real-time blockchain data. By integrating multiple APIs such as Etherscan, Dexscreener, and Tokensniffer, they gather additional real-time/historical data necessary for accurate and timely blockchain and DEX trading information (like smart contracts information, recent trade of DEX market trades and order-book depth). The information collected and processed is then filtered using Python Pandas, with data-driven trade signals sent to private investors via Telegram channels. These signals provide detailed metrics such as Token/Coin details, DEX trade links, and token/coin order depth. MongoDB is used for efficient raw data logging and data caching, ensuring quick access and secure storage of the data.
 
 ---
+[The Small Financial Data Warehouse]
 
-[Supply Chain Blockchain]
+The Small Financial Assets Data Warehouse leverages the power of Snowflake's cloud-based architecture and Python's data processing capabilities to create a reliable and efficient financial data warehouse capable of supporting various analytical needs. The project utilizes Snowflake as its core data warehouse, where normalized data is loaded from an ETL pipeline deployed on an AWS EC2 server. This ETL system captures a wide range of financial data, including FX, indexes, stocks, and commodities, extracted from multiple publicly available API sources such as OpenBB, COT data, and Yahoo Finance. Python Pandas plays a crucial role in preprocessing and filtering the raw data, transforming it into structured, actionable insights. The resulting pandas DataFrames are then loaded into Snowflake tables using a custom-developed Snowflake Manager class, which is based on the snowflake-connector library. This integrated approach combines cloud-based data warehousing with efficient Python-based ETL processes, creating a robust system for comprehensive financial data analysis.
 
 ---
 
 [Multi-Algo ML Stock Predictor ]
 
 ---
+
+[Supply Chain Blockchain Simulator]
