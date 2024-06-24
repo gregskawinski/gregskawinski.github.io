@@ -43,7 +43,7 @@ The manager uses AES algorithm to encode and decode passwords, BCrypt algorithm 
 
 [IoT system simulator]
 
-IoT project simulates real-time IoT sensor interactions and data handling with database storage, providing a RESTful API for managing sensor data using FastAPI. The API acts as a data gateway, interfacing with a Cassandra database as the backend to store and retrieve sensor configurations and data. This ensurs efficient solution for managing large volumes of sensor data. Key features include data handling and validation, sensor management (create, update, read, and delete sensor configurations), and a singleton backend to ensure a single instance of the backend for consistency.
+IoT project simulates real-time IoT sensor interactions and data handling with database storage, providing a RESTful API for managing sensor data using FastAPI. The API acts as a data gateway, interfacing with a Cassandra Database as the backend to store and retrieve sensor configurations and data. This ensurs efficient solution for managing large volumes of sensor data. Key features include data handling and validation, sensor management (create, update, read, and delete sensor configurations), and a singleton backend to ensure a single instance of the backend for consistency.
 
 ---
 [Crypto BOT Trader]
@@ -60,6 +60,8 @@ Food Orders is a Kafka-based event-driven food ordering system designed for scal
 ---
 
 [Ethereum EVM token analyser ]
+
+Ethereum EVM Analyser is a group of bots developed and deployed on AWS EC2 servers for blockchain event detection and trade signal generation. These bots utilize stream data from JSON RPC providers like Infura or Alchemy to access real-time blockchain data. By integrating multiple APIs such as Etherscan, Dexscreener, and Tokensniffer, they gather additional real-time/historical data necessary for accurate and timely blockchain and DEX trading information (like smart contracts information, recent trade of DEX market trades and order-book depth). The information collected and processed is then filtered using Python Pandas, with data-driven trade signals sent to private investors via Telegram channels. These signals provide detailed metrics such as Token/Coin details, DEX trade links, and token/coin order depth. MongoDB is used for efficient raw data logging and data caching, ensuring quick access and secure storage of the data.
 
 ---
 
