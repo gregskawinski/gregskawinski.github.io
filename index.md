@@ -40,7 +40,10 @@ The manager uses AES algorithm to encode and decode passwords, BCrypt algorithm 
 
 
 ---
-[Multi-Algo ML Stock Predictor ]
+
+[IoT system simulator]
+
+IoT project simulates real-time IoT sensor interactions and data handling with database storage, providing a RESTful API for managing sensor data using FastAPI. The API acts as a data gateway, interfacing with a Cassandra database as the backend to store and retrieve sensor configurations and data. This ensurs efficient solution for managing large volumes of sensor data. Key features include data handling and validation, sensor management (create, update, read, and delete sensor configurations), and a singleton backend to ensure a single instance of the backend for consistency.
 
 ---
 [Crypto BOT Trader]
@@ -61,5 +64,9 @@ Food Orders is a Kafka-based event-driven food ordering system designed for scal
 ---
 
 [Supply Chain Blockchain]
+
+---
+
+[Multi-Algo ML Stock Predictor ]
 
 ---
