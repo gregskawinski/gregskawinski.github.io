@@ -40,10 +40,6 @@ The manager uses AES algorithm to encode and decode passwords, BCrypt algorithm 
 
 The Crypto BOT Trader project is an advanced automated trading system designed to interact with multiple cryptocurrency exchanges, such as KuCoin and Binance, using the CCXT library. This sophisticated bot, deployed on AWS EC2 servers, accesses real-time financial OHLC candles data and order book depth, providing a comprehensive overview of market conditions. It scans a provided list of tokens and coins at scheduled intervals, utilizing APIs to fetch real-time market data, including ask/bid prices, market depth, and liquidity. Users can create and manage orders based on predefined trading strategies, including scalping, price action trading, longer swing trades based on volume-weighted averages, or momentum reversion strategies, all of which are rigorously backtested to ensure efficacy and optimize performance. The trading algorithm incorporates multiple technical analysis indicators, such as RSI, MACD, and ATR, to calculate potential entry levels and generate trade signals. Upon generating trade signals, the bots automatically open long or short positions using various order types, including Market, Limit, Stop Loss, and Take Profit, based on predefined risk management strategies. Position management is continuously updated and monitored to determine potential trade closures, ensuring optimal performance. Raw logs and trade signals are saved to MongoDB for efficient data storage and retrieval.
 
-
-[Global Stock Screener]
-
-
 ---
 
 [IoT system simulator]
@@ -76,10 +72,12 @@ The Small Financial Assets Data Warehouse leverages the power of Snowflake's clo
 
 ---
 
-[Multi-Algo ML Stock Predictor ]
-
----
-
 [Supply Chain Blockchain Simulator]
 
 The Supply Chain Blockchain Simulator is an advanced Python-based project that seamlessly integrates blockchain technology with supply chain management principles. It leverages a custom-built blockchain architecture to create a decentralized and transparent system for modeling complex supply chain interactions. At its core, the project comprises a blockchain structure with blocks and cryptographic hashing, a network of nodes for distributed consensus, and supply chain entities represented as smart contracts. Utilizing Python's asyncio library, the system simulates real-time, concurrent supply chain events. The project incorporates robust cryptographic functions, including SHA-256 hashing and elliptic curve digital signatures, as well as Merkle Tree structures, to ensure comprehensive security and authentication throughout the system. The supply chain is modeled with various entities such as manufacturers, distributors, and retailers, each capable of managing inventory and participating in smart contracts. These contracts encode sophisticated business logic for critical operations including order placement, shipment processing, and receipt confirmation. This comprehensive system serves as a powerful simulation tool for exploring the intersection of blockchain technology and supply chain management.
+
+---
+
+[Global Stock Screener]
+
+The Global Stock Screener project aims to create a comprehensive Streamlit web-based application for analyzing stocks across international markets. This tool will enable investors and financial analysts to filter and compare stocks using criteria like financial ratios, market capitalization, sector, and geographic region. By aggregating data from multiple global stock exchanges, the screener will provide a platform for identifying investment opportunities and conducting thorough market research. Key features will include customizable screening parameters, real-time data updates, visualization tools using MathlibPlot/Seaborn for trend analysis, and the ability to save screening results. This streamlined tool help users with efficient, data-driven insights for making informed investment decisions.
