@@ -48,6 +48,8 @@ IoT project simulates real-time IoT sensor interactions and data handling with d
 ---
 [Crypto BOT Trader]
 
+The Crypto BOT Trader project is an advanced automated trading system designed to interact with multiple cryptocurrency exchanges, such as KuCoin and Binance, using the CCXT library. This sophisticated bot, deployed on AWS EC2 servers, accesses real-time financial OHLC candles data and order book depth, providing a comprehensive overview of market conditions. It scans a provided list of tokens and coins at scheduled intervals, utilizing APIs to fetch real-time market data, including ask/bid prices, market depth, and liquidity. Users can create and manage orders based on predefined trading strategies, including scalping, price action trading, longer swing trades based on volume-weighted averages, or momentum reversion strategies, all of which are rigorously backtested to ensure efficacy and optimize performance. The trading algorithm incorporates multiple technical analysis indicators, such as RSI, MACD, and ATR, to calculate potential entry levels and generate trade signals. Upon generating trade signals, the bots automatically open long or short positions using various order types, including Market, Limit, Stop Loss, and Take Profit, based on predefined risk management strategies. Position management is continuously updated and monitored to determine potential trade closures, ensuring optimal performance. Raw logs and trade signals are saved to MongoDB for efficient data storage and retrieval.
+
 ---
 
 [Food System Order](https://github.com/gskawinski/Python/tree/main/Projects/FoodOrderSystem)
