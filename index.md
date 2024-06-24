@@ -35,6 +35,11 @@ The manager uses AES algorithm to encode and decode passwords, BCrypt algorithm 
 
 "Simple Shop" is a command-line application/tool designed to simulate/streamline various aspects of a virtual store. The CLI app is tightly integrated with a MySQL database for seamless operations. The app offers users a range of functionalities, such as creating user profiles, accessing product lists, obtaining product details and reviews, creating orders, managing customer orders, making new payments, and adding new products to the shop inventory. The application uses simulated data in a fake dataset to simulate real-world scenarios.
 
+---
+[Crypto BOT Trader]
+
+The Crypto BOT Trader project is an advanced automated trading system designed to interact with multiple cryptocurrency exchanges, such as KuCoin and Binance, using the CCXT library. This sophisticated bot, deployed on AWS EC2 servers, accesses real-time financial OHLC candles data and order book depth, providing a comprehensive overview of market conditions. It scans a provided list of tokens and coins at scheduled intervals, utilizing APIs to fetch real-time market data, including ask/bid prices, market depth, and liquidity. Users can create and manage orders based on predefined trading strategies, including scalping, price action trading, longer swing trades based on volume-weighted averages, or momentum reversion strategies, all of which are rigorously backtested to ensure efficacy and optimize performance. The trading algorithm incorporates multiple technical analysis indicators, such as RSI, MACD, and ATR, to calculate potential entry levels and generate trade signals. Upon generating trade signals, the bots automatically open long or short positions using various order types, including Market, Limit, Stop Loss, and Take Profit, based on predefined risk management strategies. Position management is continuously updated and monitored to determine potential trade closures, ensuring optimal performance. Raw logs and trade signals are saved to MongoDB for efficient data storage and retrieval.
+
 
 [Global Stock Screener]
 
@@ -45,10 +50,7 @@ The manager uses AES algorithm to encode and decode passwords, BCrypt algorithm 
 
 IoT project simulates real-time IoT sensor interactions and data handling with database storage, providing a RESTful API for managing sensor data using FastAPI. The API acts as a data gateway, interfacing with a Cassandra Database as the backend to store and retrieve sensor configurations and data. This ensurs efficient solution for managing large volumes of sensor data. Key features include data handling and validation, sensor management (create, update, read, and delete sensor configurations), and a singleton backend to ensure a single instance of the backend for consistency.
 
----
-[Crypto BOT Trader]
 
-The Crypto BOT Trader project is an advanced automated trading system designed to interact with multiple cryptocurrency exchanges, such as KuCoin and Binance, using the CCXT library. This sophisticated bot, deployed on AWS EC2 servers, accesses real-time financial OHLC candles data and order book depth, providing a comprehensive overview of market conditions. It scans a provided list of tokens and coins at scheduled intervals, utilizing APIs to fetch real-time market data, including ask/bid prices, market depth, and liquidity. Users can create and manage orders based on predefined trading strategies, including scalping, price action trading, longer swing trades based on volume-weighted averages, or momentum reversion strategies, all of which are rigorously backtested to ensure efficacy and optimize performance. The trading algorithm incorporates multiple technical analysis indicators, such as RSI, MACD, and ATR, to calculate potential entry levels and generate trade signals. Upon generating trade signals, the bots automatically open long or short positions using various order types, including Market, Limit, Stop Loss, and Take Profit, based on predefined risk management strategies. Position management is continuously updated and monitored to determine potential trade closures, ensuring optimal performance. Raw logs and trade signals are saved to MongoDB for efficient data storage and retrieval.
 
 ---
 
@@ -79,3 +81,5 @@ The Small Financial Assets Data Warehouse leverages the power of Snowflake's clo
 ---
 
 [Supply Chain Blockchain Simulator]
+
+The Supply Chain Blockchain Simulator is an advanced Python-based project that seamlessly integrates blockchain technology with supply chain management principles. It leverages a custom-built blockchain architecture to create a decentralized and transparent system for modeling complex supply chain interactions. At its core, the project comprises a blockchain structure with blocks and cryptographic hashing, a network of nodes for distributed consensus, and supply chain entities represented as smart contracts. Utilizing Python's asyncio library, the system simulates real-time, concurrent supply chain events. The project incorporates robust cryptographic functions, including SHA-256 hashing and elliptic curve digital signatures, as well as Merkle Tree structures, to ensure comprehensive security and authentication throughout the system. The supply chain is modeled with various entities such as manufacturers, distributors, and retailers, each capable of managing inventory and participating in smart contracts. These contracts encode sophisticated business logic for critical operations including order placement, shipment processing, and receipt confirmation. This comprehensive system serves as a powerful simulation tool for exploring the intersection of blockchain technology and supply chain management.
